@@ -23,3 +23,10 @@ cd EscrowCoinCore_Linux/scripts
 These commands may take some time, so please be patient. The `install_docker` script requires manual confirmation of the Docker Engine's apt fingerprint.
 
 **TODO** ADD SCREENSHOT
+
+At this point, it's probably best to reboot the machine. If you still see messages for security updates being available, feel free to run `update_ubuntu.sh` again. 
+
+### Security Configuration
+**TODO** I will need to circle back to this, I had previously configured my server and will need to do this again from a blank slate.
+
+### Docker Configuration
